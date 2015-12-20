@@ -4,8 +4,8 @@
   Slightly modified version of Project 1 from 
   "Arduino Meets Linux" by Bob Hammell.
 
-  I'm using an RCT003 temperature/humidity sensor rather than the
-  MCP9808 temperature censor that he used.
+  I'm using an RHT003 temperature/humidity sensor (equivalent to DHT22
+  at Adafruit) rather than the MCP9808 temperature sensor that he used.
 */
 
 #include "DHT.h"
